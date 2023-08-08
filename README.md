@@ -1,5 +1,8 @@
 # pdf_creator_py
-Create a pdf file with python and populate
+Create a PDF file with Python and populate.
 
-<iframe src="./orçamento.pdf" width="100%" height="600px"></iframe>
+You can view and download the generated PDF:
+
+![PDF Preview](./orçamento.pdf)
+
 [Download PDF](./orçamento.pdf)
